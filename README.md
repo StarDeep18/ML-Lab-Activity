@@ -44,6 +44,6 @@ ML-Lab-Activity/
 └── 8 - Random Forest/
     ├── fruit_random_forest_dataset.csv
     └── Random_Forest.ipynb 
-
+```
 
 ## The programs are implemented using Python and Google Colab notebooks.
