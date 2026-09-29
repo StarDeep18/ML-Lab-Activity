@@ -46,4 +46,4 @@ ML-Lab-Activity/
     └── Random_Forest.ipynb 
 ```
 
-## The programs are implemented using Python and Google Colab notebooks.
+The programs are implemented using Python and Google Colab notebooks.
